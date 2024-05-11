@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480499192566",
+    "project_id": "fir-25d98",
+    "storage_bucket": "fir-25d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480499192566:android:ba2ef88dda9fee80b912d7",
+        "android_client_info": {
+          "package_name": "demo.beautifuldestinations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtBR36thBgTcrglffBizazB8dsFuV_tsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
